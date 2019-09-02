@@ -1,0 +1,9 @@
+My first build
+motherboard : asrock fatility x370
+cpu: ryzen 5 3600 8 cores 16 threads
+cooler: wraith stealth 
+gpu: gigabyte gtx 1080ti
+ram: 2 dominator 8gb ddr4 2400 mhz 10-12-12-28
+ssd: samsung 960 evo nvme m.2 
+power supply: evga suppernova 1000w platinum sereis fully modular
+monitar: aoc 27" ips 1440p gsync
